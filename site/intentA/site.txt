@@ -1,16 +1,16 @@
 {
-  "id": "intentA.20131109.1",
+  "id": "intentA.20131109.2",
   "files": [{
-    "id": "intentA.20131109.1",
+    "id": "intentA.20131109.2",
     "md5": "99d3d81fa8cc5f05f1daab16d0000f55",
-    "url": "https://raw.github.com/qijian0503/AndroidDynamicLoader/master/site/intentA/intentA.20131109.1.apk"
+    "url": "https://raw.github.com/qijian0503/AndroidDynamicLoader/master/site/intentA/intentA.20131109.2.apk"
   }],
   "fragments": [
     {
       "host": "intentA",
       "name": "com.example.intenta.FragmentA",
-      "code": "intentA.20131109.1"
+      "code": "intentA.20131109.2"
     }
   ],
-  "version": "20131109.1"
+  "version": "20131109.2"
 }
