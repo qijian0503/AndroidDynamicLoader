@@ -1,0 +1,16 @@
+{
+  "id": "intentA.20131109.1",
+  "files": [{
+    "id": "intentA.20131109.1",
+    "md5": "99d3d81fa8cc5f05f1daab16d0000f55",
+    "url": "https://raw.github.com/mmin18/AndroidDynamicLoader/master/site/intentA/intentA.20131109.1.apk"
+  }],
+  "fragments": [
+    {
+      "host": "intentA",
+      "name": "com.example.intenta.FragmentA",
+      "code": "intentA.20131109.1"
+    }
+  ],
+  "version": "20131109.1"
+}
