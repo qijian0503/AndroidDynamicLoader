@@ -1,0 +1,16 @@
+{
+  "id": "MainActivity",
+  "files": [{
+    "id": "MainActivity",
+    "md5": "99d3d81fa8cc5f05f1daab16d0000f55",
+    "url": "https://raw.github.com/qijian0503/AndroidDynamicLoader/master/site/pagerSlidingTabStrip/MainActivity.apk"
+  }],
+  "fragments": [
+    {
+      "host": "MainActivity",
+      "name": "com.astuetz.viewpager.extensions.sample.QuickContactFragment",
+      "code": "MainActivity"
+    }
+  ],
+  "version": "20131109.2"
+}
