@@ -8,7 +8,7 @@
   "fragments": [
     {
       "host": "intentA",
-      "name": "com.example.intenta.FragmentA",
+      "name": "com.example.intenta.HelloFragment",
       "code": "intentA.20131109.2"
     }
   ],
