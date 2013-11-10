@@ -10,6 +10,11 @@
       "host": "intentA",
       "name": "com.example.intenta.HelloFragment",
       "code": "intentA.20131109.2"
+    },
+    {
+      "host": "pickname",
+      "name": "com.example.intenta.FragmentA",
+      "code": "intentA.20131109.2"
     }
   ],
   "version": "20131109.2"
